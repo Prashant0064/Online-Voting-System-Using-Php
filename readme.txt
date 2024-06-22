@@ -20,5 +20,3 @@
 
 username  Nurhodelta
 password  password
-
-Brought to you by: www.CampCodes.com
